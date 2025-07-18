@@ -26,7 +26,7 @@ This project involved building and evaluating five different machine learning cl
 - **Data Preprocessing**: Cleaning, encoding, and train/test splitting
 
 ## 📈 Key Deliverables  
-- A detailed **40-page report** covering:  
+- A detailed **33-page report** covering:  
   - Data exploration  
   - Model selection  
   - Performance comparisons  
