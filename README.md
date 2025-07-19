@@ -1,9 +1,8 @@
 # 📊 Marketing Classifier Machine Learning Project  
 **UTS Subject: Introduction to Data Analytics (2025)**
-
 Project by Jessica Nguyen
 
-## 🧠 Project Overview  
+## Project Overview  
 This individual project involved building and evaluating five different machine learning classifiers to predict customer subscription behaviour from a real-world marketing dataset. The task was completed individually and aimed to apply foundational machine learning techniques alongside critical thinking and structured reporting.
 
 ## 🎯 Objectives  
