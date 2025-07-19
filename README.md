@@ -1,5 +1,5 @@
 # 📊 Marketing Classifier Machine Learning Project  
-**UTS Subject: Introduction to Data Analytics (2025)**
+**UTS Subject: Introduction to Data Analytics (2025)**  
 Project by Jessica Nguyen
 
 ## Project Overview  
